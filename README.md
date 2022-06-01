@@ -1,4 +1,4 @@
-# account_book
+# smart-bill-flutter
 
 A new Flutter project.
 
